@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramzia13
-- 👀 I’m interested in physics
-- 🌱 I’m currently learning cs50
+- 👀 I’m interested in AI and Quantum Computer
+- 🌱 I’m currently learning Quantum Computer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she\her
