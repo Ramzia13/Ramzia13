@@ -35,7 +35,7 @@ Currently building projects that combine **AI + Physics**, including quantum alg
 
 ## 📫 **How to Reach Me**
 
-* 💼 LinkedIn: *add your link*
+* 💼 LinkedIn: (https://www.linkedin.com/in/ramzia-al-baloshi-9a6b24378/)
 * 🧪 GitHub Projects: [github.com/Ramzia13](https://github.com/Ramzia13/)
 * ✉️ Email: *ramziaalbaloshi@gmail.com*
 
